@@ -43,4 +43,4 @@ Here are some ideas to get you started:
   [![dodokyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokyumin)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodokyumin)](https://solved.ac/dodokyumin)<br>
+
