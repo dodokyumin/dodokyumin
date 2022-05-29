@@ -34,11 +34,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </div>
  <br>
+ <br>
  
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodokyumin&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
-<br>
-<br>
+
+
   [![dodokyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokyumin)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
