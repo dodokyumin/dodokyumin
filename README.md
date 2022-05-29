@@ -35,7 +35,10 @@ Here are some ideas to get you started:
  </div>
  <br>
  
-
-
-  [![dodokyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokyumin)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodokyumin&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
+<br>
+<br>
+  [![dodokyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokyumin)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
