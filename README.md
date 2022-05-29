@@ -36,7 +36,6 @@ Here are some ideas to get you started:
  <br>
  <br>
  
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodokyumin&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
 
@@ -44,3 +43,4 @@ Here are some ideas to get you started:
   [![dodokyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokyumin)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodokyumin)](https://solved.ac/dodokyumin)<br>
