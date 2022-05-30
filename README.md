@@ -1,4 +1,4 @@
-### 안녕하세요👋
+### 안녕하세요 你好👋
 <a href="https://dodokyumin.github.io/">규민이의 블로그 바로가기</a>
 
 <!--
