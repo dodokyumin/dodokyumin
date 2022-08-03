@@ -1,5 +1,5 @@
-### 
-<a href="https://dodokyumin.github.io/">규민이의 블로그 바로가기</a>
+### 어제의 자신보다 더 성장한 개발자 홍규민 입니다💡
+<a href="https://dodokyumin.github.io/">dodokyumin 블로그 바로가기</a>
 
 <!--
 **dodokyumin/dodokyumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
