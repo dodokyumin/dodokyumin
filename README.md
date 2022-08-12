@@ -1,8 +1,7 @@
 ### 어제보다 더 성장한 개발자 홍규민 입니다💡
 
-<a href="https://velog.io/@dodokyumin">dodokyumin 벨로그</a>
-<br>
-<a href="https://dodokyumin.github.io/">dodokyumin 깃헙블로그</a>
+<a href="https://velog.io/@dodokyumin">벨로그</a> 와
+<a href="https://dodokyumin.github.io/">깃헙블로그</a> 를 운영하고 있습니다✏
 
 
 <!--
