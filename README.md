@@ -1,5 +1,8 @@
 ### 어제보다 더 성장한 개발자 홍규민 입니다💡
-<a href="https://dodokyumin.github.io/">dodokyumin 블로그 바로가기</a>
+
+<a href="https://velog.io/@dodokyumin">dodokyumin 벨로그</a>
+<a href="https://dodokyumin.github.io/">dodokyumin 깃헙블로그</a>
+
 
 <!--
 **dodokyumin/dodokyumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
